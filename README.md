@@ -20,4 +20,8 @@ Here are some examples of patches in Max/MSP, Machine Learning, and Python. Thes
 
 [Arduino Touch sensor_VST](https://github.com/raminakhavijou/Touch-sensor-and-VST.git). This is a Max/MSP patch that gathers data from an Arduino, which reads information from a Touch Capacitive sensor. The data received in Max/MSP is utilized to trigger sounds in VST. 
 
+[Arduino Ultrasonic sensor_Max/MSP](https://github.com/raminakhavijou/Arduino-Ultrasonic-sensor_Max.git). This repository includes a Max/MSP patch and an Arduino script. The Max patch receives data from Arduino, reading information from ultrasonic sensors.
+
+
+
 
