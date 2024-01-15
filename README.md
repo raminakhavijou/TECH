@@ -15,6 +15,7 @@ Here are some examples of patches in Max/MSP, Machine Learning, and Python. Thes
 
 [Controlling Sound via Camera](https://github.com/raminakhavijou/Controlling-Sound-via-Camera.git). This patch is an interactive sound design and color system controlled by the numeric brightness data from the camera. When an object moves in front of the camera, it calculates the median brightness and sends this information to other components. This data is then used to control the speed and frequency of sound, as well as to change the background color of the projector.
 
+[Interactive Video](https://github.com/raminakhavijou/Interactive-Video.git). This repository includes a Max/MSP patch designed to interact with the velocity levels of sounds. The patch activates the microphone to capture sounds and is configured with a specific threshold (adjustable). The live camera projects the video on the screen in black and white. When the sound levels exceed a specified threshold, the video transitions to color, and with varying velocity, the colors change dynamically.
 
 # Arduino + Max/MSP
 
